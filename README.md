@@ -5,3 +5,6 @@
 - I also know how to use Proxmox, Ubuntu, and Git
 - If you want to Vist my website [Eags.dev](https://Egas.dev/)
 ___________________________________________________________________________________________________________________________
+
+## Contact
+- joshchess5@gmail.com
